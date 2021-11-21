@@ -1,8 +1,8 @@
 ## Hi there 👋  I'm Jianming
 
 ```python
-M.Sc. Autonomous Systems @ KTH & UNITN
-5 years of working experience in automobile R&D (Ford, NIO)
+M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
+5 years of working experience in automobile R&D (Ford, NIO) 🇨🇳
 ```
 
 <!--
