@@ -13,7 +13,6 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
   <a href="https://jianminghan.nicepage.io/">Link 1</a> |
   <a href="https://jianminghan.nicepage.io/">Link 2</a> |
   <a href="https://jianminghan.nicepage.io/">Link 3</a>
-  <br><br>
 </p>
 
 <!--
