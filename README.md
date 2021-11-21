@@ -12,7 +12,7 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png">
+  <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">
 </p>
 
 <!--
