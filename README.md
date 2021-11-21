@@ -9,10 +9,10 @@
   </a> 
 </p>
 
-```bash
+```python
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
+Automobile R&D @ Ford & NIO in 🇨🇳
 M.Sc. Industrial Engineering @ SEU 🇨🇳
-5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
 
 <!--
