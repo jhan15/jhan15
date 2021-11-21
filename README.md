@@ -5,9 +5,8 @@ M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">](https://jianminghan.nicepage.io/)
 
 <p align="center">
   <b>Some Links:</b><br>
@@ -15,7 +14,7 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  [<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">](https://jianminghan.nicepage.io/)
+  <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">
 </p>
 
 <!--
