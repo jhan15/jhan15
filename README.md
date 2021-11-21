@@ -1,11 +1,5 @@
 ### Hi there 👋   I'm Jianming
 
-```python
-M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
-M.Sc. Industrial Engineering @ SEU 🇨🇳
-5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
-```
-
 <p align="center">
   <a href="https://jianminghan.nicepage.io/">
     <img src="https://user-images.githubusercontent.com/62132206/142753467-f3bf3324-1a9d-413d-830b-e2313f224e88.png" width="40">
@@ -14,6 +8,12 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
     <img src="https://user-images.githubusercontent.com/62132206/142753461-40c71c77-4f7c-4394-9093-065356dc6f60.png" width="40">
   </a> 
 </p>
+
+```python
+M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
+M.Sc. Industrial Engineering @ SEU 🇨🇳
+5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
+```
 
 <!--
 **jhan15/jhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
