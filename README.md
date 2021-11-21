@@ -5,6 +5,9 @@ M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 <p align="center">
   <b>Some Links:</b><br>
