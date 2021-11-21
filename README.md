@@ -3,7 +3,7 @@
 <center> <h1>heading 1</h1> </center>
 
 <p align="center">
-  <b>Some Links:</b><br>
+  <b><h1>heading 1</h1></b><br>
 </p>
 
 About me
