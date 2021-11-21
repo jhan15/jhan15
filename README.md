@@ -5,12 +5,7 @@ M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
-
-<p align="left">
-  <a href="https://jianminghan.nicepage.io/"><img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20"></a> 
-  <a href="https://jianminghan.nicepage.io/">Link 2</a> 
-  <a href="https://jianminghan.nicepage.io/">Link 3</a>
-</p>
+[<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="30">](https://jianminghan.nicepage.io/)
 
 <!--
 **jhan15/jhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +29,15 @@ Here are some ideas to get you started:
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
+
+<p align="left">
+  <a href="https://jianminghan.nicepage.io/">
+    <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20">
+  </a>
+  <a href="https://jianminghan.nicepage.io/">Link 2</a> 
+  <a href="https://jianminghan.nicepage.io/">Link 3</a>
+</p>
+
 
 [<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">](https://jianminghan.nicepage.io/)
 -->
