@@ -1,9 +1,10 @@
 ## Hi there 👋  I'm Jianming
 
 About me
+```python
 * M.Sc Autonomous Systems @ KTH & UNITN
 * 5 years of working experience in automobile R&D (Ford, NIO)
-
+```
 
 <!--
 **jhan15/jhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
