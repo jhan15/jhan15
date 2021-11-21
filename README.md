@@ -6,6 +6,9 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
 
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+
+
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
