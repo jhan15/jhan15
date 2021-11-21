@@ -6,16 +6,13 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
 ```
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
-
-
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">
+  [<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="50">](https://jianminghan.nicepage.io/)
 </p>
 
 <!--
