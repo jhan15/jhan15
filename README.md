@@ -4,6 +4,7 @@
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 M.Sc. Industrial Engineering @ SEU 🇨🇳
 5 years of working experience in automobile R&D @ Ford & NIO in 🇨🇳
+[<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20">](https://jianminghan.nicepage.io/)
 ```
 [<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20">](https://jianminghan.nicepage.io/)
 [<img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20">](https://www.linkedin.com/in/jianming-han-852288a9/)
