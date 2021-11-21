@@ -2,7 +2,7 @@
 
 ```python
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
-5 years of working experience in automobile R&D (Ford, NIO) 🇨🇳
+5 years of working experience in automobile R&D (Ford, NIO) in 🇨🇳
 ```
 
 <!--
