@@ -1,6 +1,6 @@
 ### Hi there 👋   I'm Jianming
 
-<p align="center">
+<p align="left">
   <a href="https://jianminghan.nicepage.io/">
     <img src="https://user-images.githubusercontent.com/62132206/142753467-f3bf3324-1a9d-413d-830b-e2313f224e88.png" width="40">
   </a>
