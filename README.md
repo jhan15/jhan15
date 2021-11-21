@@ -10,9 +10,11 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
   <a href="https://jianminghan.nicepage.io/">
     <img src="https://user-images.githubusercontent.com/62132206/142752820-2e2e63a9-b8f2-4c72-bafb-0bc16c802190.png" width="20">
   </a>
-  <a href="https://www.linkedin.com/in/jianming-han-852288a9//">LinkedIn</a> 
-  <a href="jianminghan15@gmail.com/">email</a>
+  <a href="https://www.linkedin.com/in/jianming-han-852288a9//">
+    <img src="https://user-images.githubusercontent.com/62132206/142753377-5af8ca90-37aa-411d-939b-4f6182d746ba.png" width="20">
+  </a> 
 </p>
+
 
 <!--
 **jhan15/jhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
