@@ -1,18 +1,7 @@
 ## Hi there 👋  I'm Jianming
 
-<center> <h1>heading 1</h1> </center>
-
-h1, h2, h3 {
-  text-align: center;
-}
-
-<p align="center">
-  <h1>heading 1</h1>
-</p>
-
 About me
 - M.Sc Autonomous Systems @ KTH & UNITN
-- 
 - 5 years of working experience in automobile R&D (Ford, NIO)
 
 <!--
