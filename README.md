@@ -4,7 +4,7 @@
   <a href="https://jianminghan.nicepage.io/">
     <img src="https://user-images.githubusercontent.com/62132206/142753467-f3bf3324-1a9d-413d-830b-e2313f224e88.png" width="30">
   </a>
-  <a href="https://www.linkedin.com/in/jianming-han-852288a9//">
+  <a href="https://www.linkedin.com/in/jianminghan/">
     <img src="https://user-images.githubusercontent.com/62132206/142753461-40c71c77-4f7c-4394-9093-065356dc6f60.png" width="30">
   </a> 
 </p>
