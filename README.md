@@ -20,7 +20,7 @@
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 Automobile R&D @ Ford & NIO in 🇨🇳
 M.Sc. Industrial Engineering @ SEU 🇨🇳
-.Sc. Industrial Engineering @ SEU 🇨🇳
+B.Sc. Industrial Engineering @ SEU 🇨🇳
 ```
 
 <!--
