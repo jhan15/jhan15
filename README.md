@@ -10,6 +10,13 @@
 </p>
 
 ```python
+# Interest
+🚗 Autonomous Driving System
+🧠 Deep Learning
+👀 Computer Vision
+🤖️ Robotics
+
+# Backgound
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 Automobile R&D @ Ford & NIO in 🇨🇳
 M.Sc. Industrial Engineering @ SEU 🇨🇳
