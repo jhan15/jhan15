@@ -23,7 +23,7 @@ M.Sc. Industrial Engineering @ SEU 🇨🇳
 B.Sc. Industrial Engineering @ SEU 🇨🇳
 
 # Hobbies
-🏀 🏓 🏊‍♀️ 🎿 🏸️ 🎱 🚴 🚗
+🏀 🏓 🏊 🎿 🏸️ 🎱 🚴 🚗
 ```
 
 <!--
