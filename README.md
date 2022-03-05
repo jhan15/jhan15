@@ -19,7 +19,7 @@
 🤖️ Robotics
 
 # Backgound
-Thesis worker on Perception @ Scania in 🇸🇪
+Thesis worker @ Scania in 🇸🇪
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 Automobile R&D @ Ford & NIO in 🇨🇳
 B.Sc. & M.Sc. Industrial Engineering @ SEU 🇨🇳
