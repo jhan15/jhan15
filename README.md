@@ -14,7 +14,7 @@
 ```python
 # Interest
 🚗 Autonomous Driving System
-🧠 Deep Learning
+🕸️ Deep Learning
 👀 Computer Vision
 🤖️ Robotics
 
