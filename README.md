@@ -19,10 +19,10 @@
 🤖️ Robotics
 
 # Backgound
+Thesis worker on Perception @ Scania in 🇸🇪
 M.Sc. Autonomous Systems @ KTH 🇸🇪 & UNITN 🇮🇹
 Automobile R&D @ Ford & NIO in 🇨🇳
-M.Sc. Industrial Engineering @ SEU 🇨🇳
-B.Sc. Industrial Engineering @ SEU 🇨🇳
+B.Sc. & M.Sc. Industrial Engineering @ SEU 🇨🇳
 
 # Hobbies
 🏀 🏓 🏊 🎿 🎱 🚴 🏸️ 🚗
